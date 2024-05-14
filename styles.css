@@ -17,6 +17,10 @@ section {
   border-radius: 3%;
 }
 
+section h1 {
+  color: hsl(218, 44%, 22%);
+}
+
 section h1, p {
   text-align: center;
 }
